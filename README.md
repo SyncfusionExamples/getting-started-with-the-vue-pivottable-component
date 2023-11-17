@@ -1,11 +1,5 @@
 # Getting Started with the Vue Pivot Table Component
 The [Vue Pivot Table](https://www.syncfusion.com/vue-components/vue-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=vue-pivot-table-github-samples) is a powerful control used to organize and summarize business data and display the result in a cross-table format. A quick start Vue project that shows how to get started with the Pivot Table component. This project includes a code snippet to create a new vue application and add Syncfusion Vue Pivot Table component to it. It also includes a code snippet for the demonstration of some of its key features like formatting, filtering, field list and groupingbar.
- 
-Refer to the following documentation to learn about the Vue Pivot Table component: 
-https://ej2.syncfusion.com/vue/documentation/pivotview/getting-started
-
-Check out this online example of the Vue Pivot Table Component:
-https://ej2.syncfusion.com/vue/demos/#/bootstrap5/pivot-table/default.html 
 
 Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
@@ -17,7 +11,7 @@ To run this application, you need to clone the `getting-started-with-the-vue-piv
 
 ### Pivot Chart
 
-The Vue Pivot Chart can easily be integrated with pivot data rendered independently, and includes support for plotting more than 20 chart types. The end-user experience is greatly enhanced with a set of user-interaction features such as drill up, drill down, zoom, pan, crosshair, trackball, events, selection, and tooltip. Highly interactive field list options are available for generating reports from the relational data dynamically.
+The [Vue Pivot Chart](https://www.syncfusion.com/vue-components/vue-pivot-table) can easily be integrated with pivot data rendered independently, and includes support for plotting more than 20 chart types. The end-user experience is greatly enhanced with a set of user-interaction features such as drill up, drill down, zoom, pan, crosshair, trackball, events, selection, and tooltip. Highly interactive field list options are available for generating reports from the relational data dynamically.
 
 ### Virtual scrolling
 
@@ -29,7 +23,7 @@ Large amounts of data can be divided and displayed page by page with the paging 
 
 ### Exporting
 
-Export the Vue Pivot Table data to Excel, PDF, and CSV formats. You can also customize the exported document by adding header, footer, and cell properties like type, style, and position programmatically.
+Export the [Vue Pivot Table](https://www.syncfusion.com/vue-components/vue-pivot-table) data to Excel, PDF, and CSV formats. You can also customize the exported document by adding header, footer, and cell properties like type, style, and position programmatically.
 
 
 ## Related links
