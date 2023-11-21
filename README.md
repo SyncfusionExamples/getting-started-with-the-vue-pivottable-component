@@ -1,6 +1,8 @@
 # Getting Started with the Vue Pivot Table Component
 The [Vue Pivot Table](https://www.syncfusion.com/vue-components/vue-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=vue-pivot-table-github-samples) is a powerful control used to organize and summarize business data and display the result in a cross-table format. A quick start Vue project that shows how to get started with the Pivot Table component. This project includes a code snippet to create a new vue application and add Syncfusion Vue Pivot Table component to it. It also includes a code snippet for the demonstration of some of its key features like formatting, filtering, field list and groupingbar.
 
+## Project prerequisites
+
 Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
 ### How to run this application?
