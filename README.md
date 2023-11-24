@@ -8,7 +8,6 @@ Make sure that you have the latest versions of NodeJS and Visual Studio Code in 
 ### How to run this application?
 To run this application, you need to clone the `getting-started-with-the-vue-pivottable-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `ng serve` command.
 
-
 ## Features and Benefits
 
 ### Pivot Chart
@@ -25,8 +24,7 @@ Large amounts of data can be divided and displayed page by page with the paging 
 
 ### Exporting
 
-Export the [Vue Pivot Table](https://www.syncfusion.com/vue-components/vue-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=vue-pivot-table-github-samples) data to Excel, PDF, and CSV formats. You can also customize the exported document by adding header, footer, and cell properties like type, style, and position programmatically.
-
+[Export](https://ej2.syncfusion.com/vue/documentation/pivotview/excel-export?utm_source=github&utm_medium=listing&utm_campaign=vue-pivot-table-github-samples) the Vue Pivot Table data to Excel, PDF, and CSV formats. You can also customize the exported document by adding header, footer, and cell properties like type, style, and position programmatically.
 
 ## Related links
 [Learn More about Vue Pivot Table](https://www.syncfusion.com/vue-components/vue-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=vue-pivot-table-github-samples)
@@ -44,7 +42,6 @@ Export the [Vue Pivot Table](https://www.syncfusion.com/vue-components/vue-pivot
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-pivot-table-github-samples)
 
 [Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/pivot-table/default.html?utm_source=github&utm_medium=listing&utm_campaign=vue-pivot-table-github-samples)
-
 
 ## About Syncfusion Vue Components
 
